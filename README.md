@@ -1,4 +1,4 @@
-# Healthcare Insurance Cost Analysis and Prediction
+# Exploratory Data Analysis and Data Modeling to make Predictions of Healthcare and Insurance Data
 
 ## Overview
 This project focuses on analyzing healthcare insurance data to understand the key factors influencing insurance costs and to develop predictive models for estimating medical expenses. By leveraging exploratory data analysis (EDA) and machine learning techniques, we aim to provide insights that help both insurance companies and individuals make informed decisions.
